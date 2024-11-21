@@ -43,6 +43,7 @@ Game không chỉ đơn giản là giải đố mà còn yêu cầu bạn phải
 
 Balatro APK 0.5 có giao diện người dùng đơn giản và dễ sử dụng, giúp người chơi dễ dàng điều khiển và tương tác trong suốt quá trình chơi. Các nút bấm và các menu được sắp xếp hợp lý, giúp người chơi dễ dàng tiếp cận trò chơi mà không gặp khó khăn.
 
+![image](https://github.com/user-attachments/assets/b4e93b38-6ee1-4d53-9833-797b097df00f)
 
 
 ## Cách Tải Và Cài Đặt Balatro APK 0.5 Miễn Phí Cho Android
@@ -81,7 +82,8 @@ Mặc dù Balatro APK 0.5 là một trò chơi thú vị và hấp dẫn, nhưng
 
 - **Chỉ Cấp Quyền Cần Thiết:** Khi cài đặt ứng dụng, hãy kiểm tra các quyền truy cập mà ứng dụng yêu cầu. Nếu yêu cầu quyền không cần thiết, bạn nên bỏ qua hoặc không cài đặt.
 
-![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/4f3ed110-357d-44af-933e-4a398cb6ddbd)
+
 
 
 ## Tại Sao Nên Chơi Balatro APK 0.5?
